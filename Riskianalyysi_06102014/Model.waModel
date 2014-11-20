@@ -1,0 +1,809 @@
+
+{
+	"toJSON" : true,
+	"extraProperties" : 
+	{
+		"version" : "2",
+		"classes" : 
+		{
+			"ToimijaLuokka" : 
+			{
+				"panelColor" : "#fff",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 71,
+						"Y" : 42
+					}
+				}
+			},
+			"YmparistoHaitat" : 
+			{
+				"panelColor" : "#548DD4",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 375,
+						"Y" : 20
+					}
+				}
+			},
+			"ValvontaLuokka" : 
+			{
+				"panelColor" : "#B8CCE4",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"position" : 
+					{
+						"X" : 570,
+						"Y" : 666
+					}
+				}
+			},
+			"YmparistoLuokka" : 
+			{
+				"panelColor" : "#CCC1D9",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 816,
+						"Y" : 43
+					}
+				}
+			},
+			"KayttoLuokka" : 
+			{
+				"panelColor" : "#C3D69B",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 142,
+						"Y" : 596
+					}
+				}
+			},
+			"KunnossapitoLuokka" : 
+			{
+				"panelColor" : "#D88CFF",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 1109,
+						"Y" : 331
+					}
+				}
+			},
+			"VaaratekijaLuokka" : 
+			{
+				"panelColor" : "#D8D8D8",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 841,
+						"Y" : 208
+					}
+				}
+			},
+			"TapahtumaLuokka" : 
+			{
+				"panelColor" : "#548DD4",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 829,
+						"Y" : 358
+					}
+				}
+			},
+			"SeurausLuokka" : 
+			{
+				"panelColor" : "#BFBFBF",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 805,
+						"Y" : 503
+					}
+				}
+			},
+			"EhkaisyLuokka" : 
+			{
+				"panelColor" : "#B7DDE8",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 1221,
+						"Y" : 577
+					}
+				}
+			},
+			"HyodykeLuokka" : 
+			{
+				"panelColor" : "#eee",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 130,
+						"Y" : 277
+					}
+				}
+			},
+			"KokoonpanoJaPurkuMateriaaliLuokka" : 
+			{
+				"panelColor" : "#548DD4",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 160,
+						"Y" : 756
+					}
+				}
+			},
+			"TurvajarjestelmaLuokka" : 
+			{
+				"panelColor" : "#76923C",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 541,
+						"Y" : 514
+					}
+				}
+			},
+			"Jateluokka" : 
+			{
+				"panelColor" : "#548DD4",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"position" : 
+					{
+						"X" : 585,
+						"Y" : 49
+					}
+				}
+			},
+			"KemikaaliLuokka" : 
+			{
+				"panelColor" : "#70CCC2",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 1079,
+						"Y" : 54
+					}
+				}
+			},
+			"PaalaiteLuokka" : 
+			{
+				"panelColor" : "#D8D8D8",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 134,
+						"Y" : 449
+					}
+				}
+			}
+		},
+		"model" : 
+		{
+			"scriptMode" : "manual",
+			"workspaceLeft" : 779,
+			"workspaceTop" : 120,
+			"lastScriptLocation" : 
+			{
+				"ToimijaLuokka" : 
+				{
+					"method" : "ToimijaLuokka/ToimijaLuokka-methods.js"
+				},
+				"YmparistoLuokka" : 
+				{
+					"method" : "Ymparisto/Ymparisto-methods.js"
+				},
+				"HyodykeLuokka" : 
+				{
+					"method" : "Hyodykkeet/Hyodykkeet-methods.js"
+				},
+				"KokoonpanoJaPurkuMateriaaliLuokka" : 
+				{
+					"method" : "KokoonpanoJaPurkuMateriaalit/KokoonpanoJaPurkuMateriaalit-methods.js"
+				},
+				"TurvajarjestelmaLuokka" : 
+				{
+					"method" : "Turvajarjestelmat/Turvajarjestelmat-methods.js"
+				},
+				"Jateluokka" : 
+				{
+					"method" : "Jatteet/Jatteet-methods.js"
+				},
+				"PaalaiteLuokka" : 
+				{
+					"method" : "PÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¤ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¤laitteet/PÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¤ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¤laitteet-methods.js"
+				}
+			}
+		}
+	},
+	"dataClasses" : 
+	[
+		{
+			"name" : "EhkaisyLuokka",
+			"className" : "EhkaisyLuokka",
+			"collectionName" : "EhkaisyLuokkaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "ehkaisevaToimenpide",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"type" : "string",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "onnettomuus",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "SeurausLuokka",
+					"path" : "SeurausLuokka"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "HyodykeLuokka",
+			"className" : "HyodykeLuokka",
+			"collectionName" : "HyodykeLuokkaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "nimi",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"type" : "string",
+					"indexKind" : "btree"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "Jateluokka",
+			"className" : "Jateluokka",
+			"collectionName" : "JateluokkaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "nimi",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"type" : "string",
+					"indexKind" : "btree"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "KayttoLuokka",
+			"className" : "KayttoLuokka",
+			"collectionName" : "KayttoLuokkaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "tehtava",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"type" : "string",
+					"indexKind" : "btree"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "KemikaaliLuokka",
+			"className" : "KemikaaliLuokka",
+			"collectionName" : "KemikaaliLuokkaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long"
+				},
+				{
+					"name" : "nimi",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"type" : "string",
+					"indexKind" : "btree"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "nimi"
+				}
+			]
+		},
+		{
+			"name" : "KokoonpanoJaPurkuMateriaaliLuokka",
+			"className" : "KokoonpanoJaPurkuMateriaaliLuokka",
+			"collectionName" : "KokoonpanoJaPurkuMateriaaliLuokkaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "nimi",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"type" : "string",
+					"indexKind" : "btree"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "KunnossapitoLuokka",
+			"className" : "KunnossapitoLuokka",
+			"collectionName" : "KunnossapitoLuokkaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "tehtava",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"type" : "string",
+					"indexKind" : "btree"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "PaalaiteLuokka",
+			"className" : "PaalaiteLuokka",
+			"collectionName" : "PaalaiteLuokkaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "nimi",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"type" : "string",
+					"indexKind" : "btree"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "SeurausLuokka",
+			"className" : "SeurausLuokka",
+			"collectionName" : "SeurausLuokkaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "vahingonNimi",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"type" : "string",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "vahingonestotavat",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "EhkaisyLuokkaCollection",
+					"reversePath" : true,
+					"path" : "onnettomuus"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "TapahtumaLuokka",
+			"className" : "TapahtumaLuokka",
+			"collectionName" : "TapahtumaLuokkaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "tapahtuma",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"type" : "string",
+					"indexKind" : "btree"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "ToimijaLuokka",
+			"className" : "ToimijaLuokka",
+			"collectionName" : "ToimijaLuokkaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "rooli",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"type" : "string",
+					"indexKind" : "btree"
+				}
+			],
+			"methods" : 
+			[
+				{
+					"name" : "KuljetusPorauspaikalle",
+					"applyTo" : "dataClass",
+					"scope" : "publicOnServer",
+					"from" : "model.ToimijaLuokka.methods.KuljetusPorauspaikalle",
+					"userDefined" : true
+				},
+				{
+					"name" : "LaitteenTarkistus",
+					"applyTo" : "dataClass",
+					"scope" : "publicOnServer",
+					"from" : "model.ToimijaLuokka.methods.LaitteenTarkistus",
+					"userDefined" : true
+				},
+				{
+					"name" : "TyoturvallisuudestaHuolehtiminen",
+					"applyTo" : "dataClass",
+					"scope" : "publicOnServer",
+					"from" : "model.ToimijaLuokka.methods.TyoturvallisuudestaHuolehtiminen",
+					"userDefined" : true
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "TurvajarjestelmaLuokka",
+			"className" : "TurvajarjestelmaLuokka",
+			"collectionName" : "TurvajarjestelmaLuokkaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "nimi",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"type" : "string",
+					"indexKind" : "btree"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "VaaratekijaLuokka",
+			"className" : "VaaratekijaLuokka",
+			"collectionName" : "VaaratekijaLuokkaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "riskitekija",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"type" : "string",
+					"indexKind" : "btree"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "ValvontaLuokka",
+			"className" : "ValvontaLuokka",
+			"collectionName" : "ValvontaLuokkaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "YmparistoLuokka",
+			"className" : "YmparistoLuokka",
+			"collectionName" : "YmparistoLuokkaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long"
+				},
+				{
+					"name" : "nimi",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"type" : "string",
+					"indexKind" : "btree"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "nimi"
+				}
+			]
+		}
+	]
+}
